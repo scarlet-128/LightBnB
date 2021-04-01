@@ -17,3 +17,4 @@ INSERT INTO property_reviews (guest_id, property_id, reservation_id, rating, mes
 VALUES (2,1,2,4,'message'),
  (3,2,3,4,'message'),
  (1,3,1,3,'message');
+
